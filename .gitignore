@@ -1,5 +1,6 @@
 !.gitignore
-
+conf/webhook.conf
+.idea/
 #
 #Generic
 #

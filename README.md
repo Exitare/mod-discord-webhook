@@ -1,7 +1,8 @@
 
-# Acore Webhook Module
+# AzerothCore Webhook Module
 
-Welcome to the webhook module for azerothcore. This module will add functionality to let you send message to webhook endpoints (e.g. Discord).
+Welcome to the webhook module for AzerothCore. 
+This module will add functionality to let you send messages to webhook endpoints (e.g. Discord).
 
 
 
@@ -51,7 +52,8 @@ void AddWebhookPlayerScripts()
 
 ```
 
-Add the script to the script loader. Can also be added in any other script loader.
+Add the script to the script loader. Can also be added in any other script loader.  
+
 webhook_loader.cpp
 ```cpp
 void AddWebhookPlayerScripts();
